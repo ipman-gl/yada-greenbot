@@ -1122,44 +1122,49 @@ client.on("message", async message => {
       
 [Click To Invite](https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=2080374975)  
 
-**The Prefix is a (b!)**
+•The Prefix is a (+help)•
 
-**General**
- botinfo,server,ping,invites,boosts,hightRole,nick,user,avatar,roles,emoji,sug,timer,youtube,google,weather,listemojis,my perms,
- covid,my perms,sbot,calc,chinfo,count,guild,date,year,se static <emojiserver>,movie <movie name>
-
-**Moderation**
-ban,kick,mute,unmute,say,embed,tempmute,color,bans,roleinf
-unban,unban all,warn,warnings,lock,unlock,close,open,pin,unpin,rules,settopic,move,help move,delete,mutevoice,unmute voice,
-region
-
-**Config**
-setLevel,setWelcomer,setReponse1,setReponse2,setReponse3,setLog,setAutoRole,setSug,
-toggleLevel [on/off],toggleLeave [on/off],autoreply1 [on/off],autoreply2 [on/off],autoreply3,[on/off],togglelog [on/off],toggleArole [on/off]
-,toggleSug [on/off],infosetLevel,infoAutoRole,infoSug,infoWelcome,infoAutoReponse1,infoAutoReponse2,infoAutoReponse3,infoLeave
+•┃General
+  botinfo • server • ping • invites • 
+  covid • sbot • weather • year •
 
 
- **Security**
+
+•┃Moderation Commands
+  ban • kick • mute • unmute • say •
+  unban • warn • warnings • lock •
+  region • rules • move • unlock
+
+
+
+•┃Security Commands
   anti ban [Number]
- anti kick [Number]
- anti channelD [Number]
- anti channelC [Number]
- anti roleD [Number]
- anti roleC [Number]
- anti time [Number]
- antibots [on/off]
- config
+  anti kick [Number]
+  anti channelD [Number]
+  anti channelC [Number]
+  anti roleD [Number]
+  anti roleC [Number]
+  anti time [Number]
+  antibots [on • off]
+  config
 
- **JUST FOR OWNER SHIP**
 
-**Games**
-slots,rps,8ball
 
- **Fun**
- meme,slap,cuddle,kiss,boom,man,girl
- sad,love,hack,dog
+•┃Games Commands
+  slots • rps • 8ball
 
-[Support Server](https://discord.gg/zqgxs7RJpQ) 
+
+
+•┃Gif Commands
+  girl • man • love • sad
+   
+
+
+•┃Fun Commands
+  meme • slap • cuddle • kiss • 
+  hack • dog • boom
+
+[Support Server](https://discord.gg/XstuMBGTa7) 
 
 `);
     message.channel.send(help);
@@ -1256,7 +1261,7 @@ client.on("message", message => {
 لەگەل رێزماندا....!
 
    `)
-   message.channel.send(blackjack)
+   message.channel.send(853554492347908126)
  
    }
    });
