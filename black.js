@@ -1118,7 +1118,7 @@ client.on("message", async message => {
     let help = new Discord.MessageEmbed()
       .setColor("24e205")
       .setAuthor(message.author.username, message.author.displayAvatarURL())
-      .setImage(https://images-ext-1.discordapp.net/external/tsD8xP3014hJgc5Lua-Ksq7QAU3iGAe5EjJTQE-7JOE/https/media.discordapp.net/attachments/846275902311759892/850060460115755018/image0.gif)
+      .setImage('https://images-ext-1.discordapp.net/external/tsD8xP3014hJgc5Lua-Ksq7QAU3iGAe5EjJTQE-7JOE/https/media.discordapp.net/attachments/846275902311759892/850060460115755018/image0.gif')
       .setThumbnail(message.guild.iconURL()).setDescription(`
       
 [Click To Invite](https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=2080374975)  
