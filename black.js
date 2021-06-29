@@ -1100,15 +1100,6 @@ let embed = new Discord.MessageEmbed()
 message.channel.send(embed)
   }})
 
-client.on("message", async message => {
-  if (message.content.startsWith(prefix + "help")) {
-    if (cooldown.has(message.author.id)) {
-      return message.channel
-        .send(`:stopwatch: | **Please wait for ${cdtime} second**`)
-        .then(m => {
-          m.delete({ timeout: cdtime * 600 });
-        });
-    }
 
 const channelid = "id voice"    //id channele vc
 client.on("ready", () => {
@@ -1121,6 +1112,15 @@ client.on("ready", () => {
     });
 });
 
+client.on("message", async message => {
+  if (message.content.startsWith(prefix + "help")) {
+    if (cooldown.has(message.author.id)) {
+      return message.channel
+        .send(`:stopwatch: | **Please wait for ${cdtime} second**`)
+        .then(m => {
+          m.delete({ timeout: cdtime * 600 });
+        });
+    }
 
     cooldown.add(message.author.id);
 
