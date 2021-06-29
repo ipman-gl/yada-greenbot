@@ -1101,7 +1101,7 @@ message.channel.send(embed)
   }})
 
 
-const channelid = "id voice"    //id channele vc
+const channelid = "852574877584326706"    //id channele vc
 client.on("ready", () => {
     const channel = client.channels.cache.get(channelid);
     if (!channel) return console.error("The channel does not exist!");
