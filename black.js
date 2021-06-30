@@ -1173,7 +1173,7 @@ client.on("message", async message => {
    
 
 
-•┃Fun Commands
+___•┃Fun Commands___
   > meme • slap • cuddle • kiss • 
   > hack • dog • boom
 
