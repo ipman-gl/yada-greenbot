@@ -1177,7 +1177,7 @@ ___ <a:emoji_4:859925824999129088>┃Fun Commands___
   meme • slap • cuddle • kiss • 
   hack • dog • boom
 
-<a:emoji_11:859935146941218816>┃Link server┃(https://discord.gg/XstuMBGTa7) 
+<a:emoji_11:859935146941218816>[Link server](https://discord.gg/XstuMBGTa7) 
 
 `);
     message.channel.send(help);
