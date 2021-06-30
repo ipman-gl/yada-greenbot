@@ -1138,20 +1138,20 @@ client.on("message", async message => {
 •The Prefix is a (+help)•
 
 •┃General
-  botinfo • server • ping • invites • 
+  >>> botinfo • server • ping • invites • 
   covid • sbot • weather • year •
 
 
 
 •┃Moderation Commands
-  ban • kick • mute • unmute • say •
+  >>> ban • kick • mute • unmute • say •
   unban • warn • warnings • lock •
   region • rules • move • unlock
 
 
 
 •┃Security Commands
-  anti ban [Number]
+  >>> anti ban [Number]
   anti kick [Number]
   anti channelD [Number]
   anti channelC [Number]
@@ -1164,17 +1164,17 @@ client.on("message", async message => {
 
 
 •┃Games Commands
-  slots • rps • 8ball
+  >>> slots • rps • 8ball
 
 
 
 •┃Gif Commands
-  girl • man • love • sad
+  >>> girl • man • love • sad
    
 
 
 •┃Fun Commands
-  meme • slap • cuddle • kiss • 
+  >>> meme • slap • cuddle • kiss • 
   hack • dog • boom
 
 [Support Server](https://discord.gg/XstuMBGTa7) 
