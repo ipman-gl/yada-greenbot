@@ -1133,24 +1133,24 @@ client.on("message", async message => {
       .setImage('https://images-ext-1.discordapp.net/external/tsD8xP3014hJgc5Lua-Ksq7QAU3iGAe5EjJTQE-7JOE/https/media.discordapp.net/attachments/846275902311759892/850060460115755018/image0.gif')
       .setThumbnail(message.guild.iconURL()).setDescription(`
       
-[Click To Invite](https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=2080374975)  
+<a:emoji_11:859935146941218816>┃Clik to invite┃(https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=2080374975)  
 
 •The Prefix is a (+help)•
 
-___•┃General___
+___ <a:emoji_10:859933470914641961>┃General___
   Ibotinfo • server • ping • invites • 
   covid • sbot • weather • year •
 
 
 
-___•┃Moderation Commands___
+___ <a:emoji_3:855811415330914345>┃Moderation Commands___
   ban • kick • mute • unmute • say •
   unban • warn • warnings • lock •
   region • rules • move • unlock
 
 
 
-___•┃Security Commands___
+___ <a:emoji_9:859933455352463410>┃Security Commands___
   anti ban [Number]
   anti kick [Number]
   anti channelD [Number]
@@ -1163,21 +1163,21 @@ ___•┃Security Commands___
 
 
 
-___•┃Games Commands___
+___ <a:emoji_8:859933437452484640>┃Games Commands___
   slots • rps • 8ball
 
 
 
-___•┃Gif Commands___
+___ <a:emoji_6:859926391659036684>┃Gif Commands___
   girl • man • love • sad
    
 
 
-___•┃Fun Commands___
+___ <a:emoji_4:859925824999129088>┃Fun Commands___
   meme • slap • cuddle • kiss • 
   hack • dog • boom
 
-[Support Server](https://discord.gg/XstuMBGTa7) 
+<a:emoji_11:859935146941218816>┃Link server┃(https://discord.gg/XstuMBGTa7) 
 
 `);
     message.channel.send(help);
