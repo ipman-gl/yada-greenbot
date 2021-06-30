@@ -1137,45 +1137,45 @@ client.on("message", async message => {
 
 •The Prefix is a (+help)•
 
-•┃General
-  > Ibotinfo • server • ping • invites • 
-  > covid • sbot • weather • year •
+___•┃General___
+  Ibotinfo • server • ping • invites • 
+  covid • sbot • weather • year •
 
 
 
-•┃Moderation Commands
-  > ban • kick • mute • unmute • say •
-  > unban • warn • warnings • lock •
-  > region • rules • move • unlock
+___•┃Moderation Commands___
+  ban • kick • mute • unmute • say •
+  unban • warn • warnings • lock •
+  region • rules • move • unlock
 
 
 
-•┃Security Commands
-  > anti ban [Number]
-  > anti kick [Number]
-  > anti channelD [Number]
-  > anti channelC [Number]
-  > anti roleD [Number]
-  > anti roleC [Number]
-  > anti time [Number]
-  > antibots [on • off]
-  > config
+___•┃Security Commands___
+  anti ban [Number]
+  anti kick [Number]
+  anti channelD [Number]
+  anti channelC [Number]
+  anti roleD [Number]
+  anti roleC [Number]
+  anti time [Number]
+  antibots [on • off]
+  config
 
 
 
-•┃Games Commands
-  > slots • rps • 8ball
+___•┃Games Commands___
+  slots • rps • 8ball
 
 
 
-•┃Gif Commands
-  > girl • man • love • sad
+___•┃Gif Commands___
+  girl • man • love • sad
    
 
 
 ___•┃Fun Commands___
-  > meme • slap • cuddle • kiss • 
-  > hack • dog • boom
+  meme • slap • cuddle • kiss • 
+  hack • dog • boom
 
 [Support Server](https://discord.gg/XstuMBGTa7) 
 
