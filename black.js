@@ -53,13 +53,13 @@ client.on("message", message => {
       return message.channel.send(
         "**Sorry But You Dont Have Permission** `MANAGE_GUILD`"
       );
-    if (!room) return message.channel.send("**Please Type The Name Channel**");
+    if (!room) return message.channel.send("** 847808223045353496**");
     if (!channel) return message.channel.send("**Cant Find This Channel**");
     let embed = new Discord.MessageEmbed()
       .setAuthor(message.author.username, message.author.avatarURL())
       .setThumbnail(message.author.avatarURL('https://media.discordapp.net/attachments/835673002079027200/844269140502904852/image0.gif'))
       .setTitle("___welcome to server___")
-      .addField("847808223045353496", `${room}`)
+      .addField("", `${room}`)
       .addField("G͓̽L͓̽O͓̽B͓̽A͓̽L͓̽ ͓̽R͓̽E͓̽W͓̽A͓̽R͓̽D͓̽S͓̽", `${message.guild.name}`)
       .addField("ipman", `${message.author}`)
       .setColor("5ce600")
