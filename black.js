@@ -123,10 +123,10 @@ client.on('message', message => {
         }
         
        let embed = new Discord.MessageEmbed()
-                      .setTitle('**✅Done Check The Toggle Welcome is On**')
-                      .addField('Name Server', message.guild.name)
+                      .setTitle('**welcome to server**')
+                      .addField('GLOBAL REWARDS', message.guild.name)
                       .addField('Toggle', `${wlcblack[message.guild.id].onoff}`)
-                      .addField('By', `${message.author.username}`)
+                      .addField('ipman', `${message.author.username}`)
                       .setThumbnail(message.author.avatarURL())
                       .setFooter(`${client.user.username}`)                  
                      message.channel.send(embed)       
