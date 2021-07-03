@@ -1138,44 +1138,44 @@ client.on("message", async message => {
 •The Prefix is a (+help)•
 
 ___ <a:emoji_10:859933470914641961>┃General___
-  Ibotinfo • server • ping • invites • 
-  covid • sbot • weather • year •
+ > Ibotinfo • server • ping • invites • 
+ > covid • sbot • weather • year •
 
 
 
 ___ <a:emoji_3:855811415330914345>┃Moderation Commands___
-  ban • kick • mute • unmute • say •
-  unban • warn • warnings • lock •
-  region • rules • move • unlock
+ > ban • kick • mute • unmute • say •
+ > unban • warn • warnings • lock •
+ > region • rules • move • unlock
 
 
 
 ___ <a:emoji_9:859933455352463410>┃Security Commands___
-  anti ban [Number]
-  anti kick [Number]
-  anti channelD [Number]
-  anti channelC [Number]
-  anti roleD [Number]
-  anti roleC [Number]
-  anti time [Number]
-  antibots [on • off]
-  config
+ > anti ban [Number]
+ > anti kick [Number]
+ > anti channelD [Number]
+ > anti channelC [Number]
+ > anti roleD [Number]
+ > anti roleC [Number]
+ > anti time [Number]
+ > antibots [on • off]
+ > config
 
 
 
 ___ <a:emoji_8:859933437452484640>┃Games Commands___
-  slots • rps • 8ball
+ > slots • rps • 8ball
 
 
 
 ___ <a:emoji_6:859926391659036684>┃Gif Commands___
-  girl • man • love • sad
+ > girl • man • love • sad
    
 
 
 ___ <a:emoji_4:859925824999129088>┃Fun Commands___
-  meme • slap • cuddle • kiss • 
-  hack • dog • boom
+ > meme • slap • cuddle • kiss • 
+ > hack • dog • boom
 
 <a:emoji_11:859935146941218816>[Link server](https://discord.gg/XstuMBGTa7) 
 
