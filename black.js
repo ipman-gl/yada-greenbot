@@ -3038,7 +3038,8 @@ client.on("message", async message => {
       "xwshkt bgem",
       "nank hiz",
       "bgem"
-    )
+    ) "gw bxo"
+
   ) {
     if (!message.channel.guild) return;
     message.delete();
